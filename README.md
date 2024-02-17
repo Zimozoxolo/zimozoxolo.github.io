@@ -31,12 +31,14 @@ Report Title: Classification of labelled data sets - Language Classification
 - M
 - A
 - M
+
 **Data & Analytics Associate @ PwC(_Apr 2019 - Dec 2020_)**
 - L
 - D
 - A
 - B
 - D
+  
 **Data Science, Intern @ Ornico(_Jul 2017 - Jan 2019_)**
 - C
 - L
