@@ -55,8 +55,8 @@ Modules :
 - Played a pivotal role in rectifying data quality discrepancies between our workflow system and data repository by meticulously extracting reports and furnishing compelling evidence. Actively engaged in collaborative dialogues aimed at fortifying data integrity through rigorous completeness checks, contributing significantly to the enhancement of overall data accuracy and reliability.
   
 - Orchestrated the establishment of the PowerBI Workspace for the team. Then in line with the group's data strategy migrated and built finance, compliance, regulatory, risk and operational dashboards in PowerBi. This initiative not only optimized data visualization but also empowered the team to make data-driven decisions with greater efficiency and cohesion.
-- 
-- S
+  
+-  Developed a sophisticated Workflow prediction model tailored specifically for finance operations, aimed at budget prediction automation within our business unit. Leveraging advanced analytical techniques, I engineered a robust predictive model that significantly enhanced forecasting accuracy and efficiency. This initiative will not only streamline budgeting processes but also empower our team to make strategic financial decisions with heightened confidence and precision.
 
 **Data & Analytics Senior Associate @ PwC(_Jan 2021 - Feb 2022_)**
 - L
