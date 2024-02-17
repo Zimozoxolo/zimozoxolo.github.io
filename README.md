@@ -19,26 +19,26 @@ Report Title: Classification of labelled data sets - Language Classification
 
 ### Work Experience
 
-Business Intelligence Analyst @ FNB (May 2022-Present)
+**Business Intelligence Analyst @ FNB (_May 2022-Present_)**
 - 
 -
 -
 -
 -
 
-Data & Analytics Senior Associate @ PwC(Jan 2021 - Feb 2022)
+**Data & Analytics Senior Associate @ PwC(_Jan 2021 - Feb 2022_)**
 -
 -
 -
 -
 -
-Data & Analytics Associate @ PwC(Apr 2019 - Dec 2020)
+**Data & Analytics Associate @ PwC(_Apr 2019 - Dec 2020_)**
 -
 -
 -
 -
 -
-Data Science, Intern @ Ornico(Jul 2017 - Jan 2019)
+**Data Science, Intern @ Ornico(_Jul 2017 - Jan 2019_)**
 -
 -
 -
