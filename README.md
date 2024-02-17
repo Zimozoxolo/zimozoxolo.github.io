@@ -60,23 +60,18 @@ Modules :
 -  Drove the implementation of a transformative solution utilizing MS Forms and Power Automate to streamline a critical business process plagued by key man dependencies. Through strategic integration and automation, we effectively mitigated operational risks and improved process reliability. This initiative not only bolstered efficiency but also enhanced team agility, enabling seamless continuity and reducing dependence on individual stakeholders with the added benefit of digital transformation and providing an audit trail.
 
 **Data & Analytics Senior Associate @ PwC(_Jan 2021 - Feb 2022_)**
--  
-- D
-- M
-- A
-- M
+- Led the strategic initiative to spearhead an automated audio detection project, surpassing the previous year's accuracy benchmarks. Demonstrated exceptional leadership and technical acumen in enhancing accuracy rates, culminating in an impressive 75% average accuracy across three distinct sets of audio data. This achievement underscores my capacity to drive innovation and deliver tangible results, solidifying my reputation as a proactive and results-driven professional.
+- Developed a robust Python script engineered to efficiently ingest MS Excel files of varied formats, standardizing their inputs to align with stringent regulatory reporting mandates for pension funds and automatically detecting asset classes that did not meet regulation.
+- Optimised Alteryx workflows into applications to increase knowledge sharing within the team.
+
 
 **Data & Analytics Associate @ PwC(_Apr 2019 - Dec 2020_)**
-- L
-- D
-- A
-- B
-- D
+
+- Championing firm-wide technological advancement through participation in Alteryx training initiatives. Actively delivering comprehensive training sessions to associates at my grade level and above, empowering them with the skills and knowledge needed to leverage Alteryx effectively. This proactive approach fosters a culture of continuous learning and innovation, driving organizational growth and proficiency in advanced analytics capabilities.
+- Transformed a lengthy SQL script, originally running for 16 hours, into an optimized workflow completing in just 4 hours. Further, developed the workflow into an intuitive application readily accessible to other associates, facilitating seamless adoption and operation. Additionally, crafted a comprehensive instructional video providing a step-by-step walkthrough for effortless usage and swift handover. This streamlined solution not only significantly reduces operational costs but also enhances team productivity and knowledge transfer efficiency.
+- Under the mentorship of a technical manager, architected a data infrastructure tailored for audio data processing. Successfully engineered and deployed an automated detection program using Python, exhibiting remarkable technical prowess in machine learning methodologies. Achieved a commendable accuracy rate of 52% in identifying specific audio snippets within longer audio files, based on rigorous testing of 25 samples
   
 **Data Science, Intern @ Ornico(_Jul 2017 - Jan 2019_)**
-- C
-- L
-- A
-- B
-- M
+- Employed Topic Modeling techniques to analyze large corpora of text data with the objective of relevance detection in line with my MSc research. Leveraging methodologies such as Latent Dirichlet Allocation (LDA) or Non-negative Matrix Factorization (NMF), Initiated the exploratory phase of the data science workflow cycle by conducting thorough data preprocessing, including text cleaning, tokenization, and feature extraction. Subsequently, through iterative model training and evaluation iterations, I optimized model parameters to maximize relevance detection accuracy and interpretability. Finally, employing techniques such as perplexity and coherence scoring, I rigorously assessed model performance, ensuring alignment with business objectives and facilitating actionable insights extraction from the text data
+- Developed a robust codebase implementing a Naive Bayes classifier for sentiment classification of news articles, which was subsequently deployed into production.  Rigorous evaluation techniques, such as cross-validation and performance metrics analysis, were employed to ensure the model's effectiveness in real-world deployment scenarios. The successful implementation of this sentiment classification solution not only enhanced decision-making processes but also facilitated the extraction of actionable insights from news data, which delivered value to our customers.
 ### Portfolio
