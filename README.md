@@ -57,9 +57,10 @@ Modules :
 - Orchestrated the establishment of the PowerBI Workspace for the team. Then in line with the group's data strategy migrated and built finance, compliance, regulatory, risk and operational dashboards in PowerBi. This initiative not only optimized data visualization but also empowered the team to make data-driven decisions with greater efficiency and cohesion.
   
 -  Developed a sophisticated Workflow prediction model tailored specifically for finance operations, aimed at budget prediction automation within our business unit. Leveraging advanced analytical techniques, I engineered a robust predictive model that significantly enhanced forecasting accuracy and efficiency. This initiative will not only streamline budgeting processes but also empower our team to make strategic financial decisions with heightened confidence and precision.
+-  Led the implementation of a transformative solution utilizing MS Forms and Power Automate to streamline a critical business process plagued by key man dependencies. Through strategic integration and automation, we effectively mitigated operational risks and improved process reliability. This initiative not only bolstered efficiency but also enhanced team agility, enabling seamless continuity and reducing dependence on individual stakeholders with the added benefit of digital transformation and providing an audit trail.
 
 **Data & Analytics Senior Associate @ PwC(_Jan 2021 - Feb 2022_)**
-- L
+-  
 - D
 - M
 - A
