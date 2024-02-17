@@ -29,6 +29,7 @@ Modules :
 - Statistical process control
 
 **University of Pretoria, Mathematical Statistics, BSc (2015)**
+
 Modules :  
 -  Linear algebra
 - Calculus
