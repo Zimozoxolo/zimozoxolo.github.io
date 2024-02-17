@@ -18,30 +18,29 @@ Report Title: Classification of labelled data sets - Language Classification
 **University of Pretoria, Mathematical Statistics, BSc (2015)**
 
 ### Work Experience
-
 **Business Intelligence Analyst @ FNB (_May 2022-Present_)**
-- 
--
--
--
--
+- L
+- D
+- A
+- St
+- S
 
 **Data & Analytics Senior Associate @ PwC(_Jan 2021 - Feb 2022_)**
--
--
--
--
--
+- L
+- D
+- M
+- A
+- M
 **Data & Analytics Associate @ PwC(_Apr 2019 - Dec 2020_)**
--
--
--
--
--
+- L
+- D
+- A
+- B
+- D
 **Data Science, Intern @ Ornico(_Jul 2017 - Jan 2019_)**
--
--
--
--
--
+- C
+- L
+- A
+- B
+- M
 ### Portfolio
